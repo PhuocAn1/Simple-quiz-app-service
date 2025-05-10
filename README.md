@@ -18,11 +18,11 @@ spring.application.name=quizapp
 spring.datasource.url = jdbc:database://localhost:port/database-name   
 (Replace 'database' with your actual database type eg. MySQL, PostgreSQL, etc)
 
-spring.datasource.username = your_username
-spring.datasource.password = your_password
+spring.datasource.username = your_username  
+spring.datasource.password = your_password  
 spring.datasource.driver-class-name = your database driver example(com.mysql.cj.jdbc.Driver)  
 
 spring.jpa.database-platform= your database dialect example(org.hibernate.dialect.MySQLDialect)  
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update  
+spring.jpa.show-sql=true  
 
