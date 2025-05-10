@@ -1,0 +1,89 @@
+[
+  {
+    "questionTitle": "Who invented Java Programming?",
+    "option1": "Guido van Rossum",
+    "option2": "James Gosling",
+    "option3": "Dennis Ritchie",
+    "option4": "Bjarne Stroustrup",
+    "rightAnswer": "James Gosling",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+  
+  {
+    "questionTitle": "Which component is used to compile, debug and execute the java programs?",
+    "option1": "JRE",
+    "option2": "JIT",
+    "option3": "JDK",
+    "option4": "JVM",
+    "rightAnswer": "JDK",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "class increment {\n        public static void main(String args[])\n         {\n                     int g = 3;\n             System.out.print(++g * 8);\n        }\n     }",
+    "option1": "32",
+    "option2": "33",
+    "option3": "24",
+    "option4": "25",
+    "rightAnswer": "32",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "Which environment variable is used to set the java path?",
+    "option1": "MAVEN_Path",
+    "option2": "JavaPATH",
+    "option3": "JAVA",
+    "option4": "JAVA_HOME",
+    "rightAnswer": "JAVA_HOME",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "What is not the use of “this” keyword in Java?",
+    "option1": "Referring to the instance variable when a local variable has the same name",
+    "option2": "Passing itself to the method of the same class",
+    "option3": "Passing itself to another method",
+    "option4": "Calling another constructor in constructor chaining",
+    "rightAnswer": "Passing itself to the method of the same class",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "What will be the error in the following Java code?\n    byte b = 50;\n    b = b * 50;",
+    "option1": "b cannot contain value 50",
+    "option2": "b cannot contain value 100, limited by its range",
+    "option3": "No error in this code",
+    "option4": "* operator has converted b * 50 into int, which can not be converted to byte without casting",
+    "rightAnswer": "* operator has converted b * 50 into int, which can not be converted to byte without casting",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "Which of the following is a type of polymorphism in Java Programming?",
+    "option1": "Multiple polymorphism",
+    "option2": "Compile time polymorphism",
+    "option3": "Multilevel polymorphism",
+    "option4": "Execution time polymorphism",
+    "rightAnswer": "Compile time polymorphism",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  },
+
+  {
+    "questionTitle": "What is Truncation in Java?",
+    "option1": "Floating-point value assigned to a Floating type",
+    "option2": "Floating-point value assigned to an integer type",
+    "option3": "Integer value assigned to floating type",
+    "option4": "Integer value assigned to floating type",
+    "rightAnswer": "Floating-point value assigned to an integer type",
+    "difficultyLevel": "Easy",
+    "category": "Java"
+  }
+]
